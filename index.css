@@ -1,0 +1,95 @@
+
+
+html body {
+margin: 0;
+padding: 0;
+
+}
+
+
+
+h2{
+    color: navy;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+header { background-color: aquamarine;
+position: fixed;
+width: 100%;
+z-index:1;
+margin: -20px 0px;
+padding: 20px 0;
+
+
+}
+
+ li {
+    font-size: 18px;
+    font-family: helvetica;
+    font-weight: bold;
+    
+}
+
+
+nav {
+    margin: 0;
+  padding: -20px 0;
+}
+nav li {
+    text-align: center;
+    display: inline-block;
+   width:220px;
+   
+
+}
+nav li:hover   {
+
+    background-color: navy;
+    color:aliceblue;
+}
+
+
+img[src*='Myheadshot'] {
+    width: 350PX;
+    float: right;
+    margin-right: 500px;
+    padding-bottom: 0px;
+}
+
+img[src*='dean'] {
+    width:250px;
+    margin-right:0px;
+    float:right;
+}
+container1 p{
+
+}
+main {
+    position: relative;
+    top: 80px;
+    text-align: left;
+    overflow: scroll;
+}
+.introduction {
+    width: 300px;
+    margin-left: 10px;
+}
+.name {
+    width:300px;
+    margin-left: 10px;
+}
+.degree
+{
+    width:300px;
+    margin-left: 10px;
+}
+a {
+    color: black;
+}
+
+a:hover {
+    color:aliceblue;
+}
+
