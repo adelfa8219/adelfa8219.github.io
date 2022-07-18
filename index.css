@@ -54,7 +54,7 @@ nav li:hover   {
 img[src*='Myheadshot'] {
     width: 350PX;
     float: right;
-    margin-right: 500px;
+    margin-right: 300px;
     padding-bottom: 0px;
 }
 
@@ -73,7 +73,7 @@ main {
     overflow: scroll;
 }
 .introduction {
-    width: 300px;
+    width: 500px;
     margin-left: 10px;
 }
 .name {
@@ -82,7 +82,7 @@ main {
 }
 .degree
 {
-    width:300px;
+    width:500px;
     margin-left: 10px;
 }
 a {
@@ -93,3 +93,14 @@ a:hover {
     color:aliceblue;
 }
 
+footer {
+background-color: aquamarine;
+color: black;
+position: fixed;
+width:100%;
+bottom: 0px;
+}
+
+.bottom {
+    text-align: center;
+}
