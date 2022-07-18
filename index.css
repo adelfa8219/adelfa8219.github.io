@@ -70,7 +70,7 @@ main {
     position: relative;
     top: 80px;
     text-align: left;
-    overflow: scroll;
+    
 }
 .introduction {
     width: 500px;
@@ -92,6 +92,7 @@ a {
 a:hover {
     color:aliceblue;
 }
+
 
 footer {
 background-color: aquamarine;
