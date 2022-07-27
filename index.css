@@ -15,7 +15,8 @@ h2{
     
 }
 
-header { background-color: aquamarine;
+header { /*background-color: aquamarine;*/
+    background-color: hsl(240, 100%, 80%);
 position: fixed;
 width: 100%;
 z-index:1;
@@ -95,7 +96,8 @@ a:hover {
 
 
 footer {
-background-color: aquamarine;
+/*background-color: aquamarine;*/
+    background-color: hsl(240, 100%, 80%);
 color: black;
 position: fixed;
 width:100%;
