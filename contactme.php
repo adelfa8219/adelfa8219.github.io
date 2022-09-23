@@ -14,11 +14,13 @@ $to = "adelfabrito@yahoo.com";
 $subject = "Mail from Recruiter";
 $txt ="Name = ". $name .  "\r\n Email = " . $email . "r\n\ Message =" . "$message ." \r\n phone =" . $phone;
 
+$headers = "From: adelfahernandez@gmail.com" . "\r\n" .
+"CC: adelfabrito@yahoo.com";
 
 if($email!=NULL){
-mail($to,$subject,$txt,$phone);
+mail($to,$subject,$txt,$phone, $headers);
 }
 
 //redirect
-header("Location:thank-you.html");
+header("Location:thankyou.html");
 ?>
