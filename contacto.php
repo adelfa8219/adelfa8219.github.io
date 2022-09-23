@@ -15,8 +15,7 @@ if(empty($_POST["name"]) ||
 $name = $_POST["name"];
 $email = $_POST["email"];
 $phone = $_POST["phone"];
-$yesweb = $_POST["yesweb"];
-$noweb = $_POST["noweb"];
+$answer = $_POST["answer"];
 $message = $_POST["message"];
 
 
