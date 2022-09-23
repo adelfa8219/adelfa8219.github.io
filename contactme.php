@@ -19,8 +19,5 @@ $headers = "From: adelfahernandez@gmail.com" . "\r\n" .
 
 if($email!=NULL){
 mail($to,$subject,$txt,$phone, $headers);
-}
-
-//redirect
-header("Location:thankyou.html");
+header("Location:thankyou.html");}
 ?>
