@@ -5,7 +5,7 @@ if(empty($_POST['submit']))
 	echo "Form is not submitted!";
 	exit;
 }
-if(empty($_POST["fullname"]) ||
+if(empty($_POST["name"]) ||
 	empty($_POST["email"]))
 	{
 		echo "Please fill the form";
@@ -25,6 +25,6 @@ $message = $_POST["message"];
 mail( 'adelfabrito@yahoo.com' , 'New form submission' , 
 "New form submission: Name: $name, Email:$email, Phone: $phone, Yes: $yesweb, No: $noweb, Message: $message"  );
 
-header('./thank-you.html');
+header('Location: thank-you.html');
 
 ?>
