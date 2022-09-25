@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['SUBMIT'])){
+if (isset($_POST['submit'])){
 //get data from form
 	
 $name=$_POST["name"];
