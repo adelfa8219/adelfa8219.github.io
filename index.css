@@ -132,6 +132,15 @@ img  {
     Float: center;
     margin-left: 120px;
 }
+.about{
+    
+    top: 100px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+     text-align: left;
+    Float: center;
+    margin-left: 120px;}
+    
 container1 p{
 
 }
