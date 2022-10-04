@@ -145,10 +145,10 @@ img  {
     top: 160px;
     font-family: 'Roboto', sans-serif;
     letter-spacing: 1px;
-     text-align: left;
-    margin-left: 400px
-        margin-right: 0;
-       display: inline-block;}
+    text-align: left;
+    margin-left: 400px;
+    margin-right: 0px;
+     display: inline-block;}
 
 .skills li {
     text-align: left;
