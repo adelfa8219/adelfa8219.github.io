@@ -137,7 +137,7 @@ img  {
     font-size: 18px;
     letter-spacing: 1px;
      text-align: left;
-    display: inline-flex;
+    display: inline-block;
     margin-left: 200px;
     margin-right: 0px;
     padding: 0px 30px;
