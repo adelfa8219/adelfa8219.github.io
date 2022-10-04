@@ -107,10 +107,11 @@ img  {
     }
 
 .rojo img {
-    width: 600px;
-    height:550px;
+    width: 550px;
+    height:650px;
     float: right;
     display: inline-block;
+    margin-right:400px;
 }
 
 .cadena {
