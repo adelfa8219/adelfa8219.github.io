@@ -112,6 +112,7 @@ img  {
     float: right;
     display: inline-block;
     margin-right:300px;
+    padding: 0px 30px;
 }
 
 .cadena {
@@ -138,6 +139,7 @@ img  {
     display: inline-block;
     margin-left: 200px;
     margin-right: 0px;
+    padding: 0px 30px;
 }
 .about{
     
