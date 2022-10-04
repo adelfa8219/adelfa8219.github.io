@@ -113,6 +113,7 @@ img  {
     display: inline-block;
     margin-right:300px;
     padding: 0px 30px;
+    position: sticky;
 }
 
 .cadena {
@@ -140,6 +141,7 @@ img  {
     margin-left: 200px;
     margin-right: 0px;
     padding: 0px 30px;
+    position: sticky;
 }
 .about{
     
@@ -149,7 +151,8 @@ img  {
     text-align: left;
     margin-left: 200px;
     margin-right: 0px;
-     display: inline-block;}
+     display: inline-block;
+position: sticky;}
 
 .skills li {
     text-align: left;
