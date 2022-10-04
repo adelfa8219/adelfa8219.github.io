@@ -137,13 +137,13 @@ img  {
     font-size: 18px;
     letter-spacing: 1px;
      text-align: left;
-    display: inline-block;
+    display: flex;
     margin-left: 200px;
     margin-right: 0px;
     padding: 0px 30px;
     
 }
-*/.about h1 {
+*/.about {
     
     top: 160px;
     font-family: 'Roboto', sans-serif;
@@ -152,7 +152,7 @@ img  {
     margin-left: 200px;
     margin-right: 0px;
      display: inline-block;
-position: sticky;} \*
+
 
 .skills li {
     text-align: left;
