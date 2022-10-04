@@ -111,7 +111,7 @@ img  {
     height:650px;
     float: right;
     display: inline-block;
-    margin-right:400px;
+    margin-right:40px;
 }
 
 .cadena {
@@ -146,6 +146,7 @@ img  {
     letter-spacing: 1px;
      text-align: left;
     margin-left: 400px
+        margin-right: 0;
        display: inline-block;;}
 
 .skills li {
