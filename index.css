@@ -128,7 +128,7 @@ img  {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     letter-spacing: 1px;
-    text-align: center;
+    text-align: left;
 
 }
 
@@ -152,9 +152,9 @@ main {
 }
 
 .skills li {
-    Float: left;
+    Float: center;
     width: 500px;
-    text-align: center;
+    text-align: left;
     margin-left:300px;
 }
 
