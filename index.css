@@ -152,6 +152,10 @@ main {
     font-family: 'Roboto', sans-serif;
 }
 
+.skills li {
+    Float: center;
+}
+
     
 .introduction {
     width: 500px; 
