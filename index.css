@@ -143,6 +143,16 @@ main {
     text-align: center;
     
 }
+
+.about {
+    
+    text-align: center;
+    width: 500px;
+    top: 80px;
+    font-family: 'Roboto', sans-serif;
+}
+
+    
 .introduction {
     width: 500px; 
     /*font-family: Palatino, "Palatino Linotype", "Palatino LT STD";*/
