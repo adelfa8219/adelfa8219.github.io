@@ -106,15 +106,6 @@ img  {
         border-radius: 20px;
     }
 
-.rojo {
-    width: 550px;
-    height:650px;
-    float: right;
-    display: inline-block;
-    margin-right:300px;
-    padding: 0px 30px;
-   
-}
 
 .cadena {
 
@@ -131,38 +122,6 @@ img  {
    text-align: left;
   
 }
-.cadena4  {
-    
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    letter-spacing: 1px;
-     text-align: left;
-    display: inline-block;
-    margin-left: 200px;
-    margin-right: 0px;
-    padding: 0px 30px;
-    
-}
-.about {
-    
-    top: 160px;
-    font-family: 'Roboto', sans-serif;
-    letter-spacing: 1px;
-    text-align: left;
-    margin-left: 200px;
-    margin-right: 0px;
-     display: inline-block;
-
-
-.skills li {
-    text-align: left;
-     margin-left:400px;
-     top: 100px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 18px;
-    letter-spacing: 1px;
-}
-    
 container1 p{
 
 }
