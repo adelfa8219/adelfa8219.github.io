@@ -152,9 +152,10 @@ main {
 }
 
 .skills li {
-    Float: center;
+    Float: left;
     width: 500px;
     text-align: center;
+    margin-left:300px;
 }
 
     
